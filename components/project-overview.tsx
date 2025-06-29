@@ -5,11 +5,8 @@ export const ProjectOverview = () => {
       <h1 className="text-3xl font-semibold mb-4">Skylark AI</h1>
       <p className="text-center">
         This starter project uses <Link href="https://groq.com/">Groq</Link>{" "}
-        with the <Link href="https://sdk.vercel.ai/docs">AI SDK</Link> via the{" "}
-        <Link href="https://vercel.com/marketplace/groq">
-          Vercel Marketplace
-        </Link>
-        .
+        with the <Link href="https://sdk.vercel.ai/docs">AI SDK</Link>
+        . Build by Priyanshu
       </p>
     </div>
   );

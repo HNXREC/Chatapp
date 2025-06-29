@@ -1,6 +1,4 @@
-<a href="https://ai-sdk-starter-groq.vercel.app">
-  <h1 align="center">Vercel x Groq Chatbot</h1>
-</a>
+<h1 align="center">Skylark AI</h1>
 
 <p align="center">
   An open-source AI chatbot app template built with Next.js, the AI SDK by Vercel, and Groq.
