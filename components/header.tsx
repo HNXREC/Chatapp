@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { DeployButton } from "./deploy-button";
-import { GroqIcon } from "./icons";
+
 
 export const Header = () => {
   return (
